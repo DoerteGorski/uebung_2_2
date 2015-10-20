@@ -9,7 +9,5 @@ public class BinomischeFormel {
 		double loesung = (a*a)+ (2*a*b)+(b*b);
 		
 		System.out.println("a²+b² = " + loesung);
-
 	}
-
 }
